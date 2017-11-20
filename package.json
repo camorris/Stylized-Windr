@@ -1,0 +1,19 @@
+{
+  "name": "stylized-windr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/camorris/Stylized-Windr.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/camorris/Stylized-Windr/issues"
+  },
+  "homepage": "https://github.com/camorris/Stylized-Windr#readme"
+}
